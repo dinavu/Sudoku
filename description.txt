@@ -1,0 +1,3 @@
+Description of lab5
+Sudoku 
+This lab reads in a sudoku puzzle and asks the user for the positions they want to enter input in and what the value of the input is. The lab uses templating to easily switch between Puzzle<char> and Puzzle<int>. The program will also determine if the user-inputted values are correct.
